@@ -1,18 +1,49 @@
-<h1 align="left"><a href="https://edward.donger.ca">Resume</a></h1>
+# ⛏️ Data Engineer | Mining Engineer E.I.T
 
-## Languages:
+### 🧰 Tech Stack & Tools
 
-[<img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" height="64">](https://learn.microsoft.com/en-us/sql/)
-[<img src="https://github.com/user-attachments/assets/2d5a7f13-4765-49b1-ad0f-02b272144c1f" height="64">](https://www.python.org/)
-[<img src="https://github.com/user-attachments/assets/fb25ba1b-aa0b-442f-a839-18184b85ce92" height="64">](https://www.w3.org/html/)
-[<img src="https://github.com/user-attachments/assets/90b7b68b-c805-47ad-837f-ae6e6b6f6074" height="64">](https://www.w3.org/Style/CSS/Overview.en.html)
-[<img src="https://github.com/user-attachments/assets/de7ce4bc-ec39-4183-9b2f-604d0195fd7d" height="64">](https://www.javascript.com/)
+#### 🧮 Data Engineering
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=000)
 
-## Libraries/Tools:
+#### 💻 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 
-[<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/snowflake-color.png" height="64">](https://www.snowflake.com/en/)
-[<img src="https://www.clipartmax.com/png/full/152-1520624_azure-data-factory-azure-data-factory-logo.png" height="64">](https://azure.microsoft.com/en-us/products/data-factory)
-[<img src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg" height="64">](https://www.databricks.com/product/azure)
-[<img src="https://github.com/user-attachments/assets/bfba7f4a-5dc6-49e7-8510-238c9982370f" height="64">](https://git-scm.com/)
-[<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" height="64">](https://getbootstrap.com/)
-[<img src="https://github.com/user-attachments/assets/86c9cc38-05cf-4c49-9b06-875dc0686984" height="64">](https://www.docker.com/)
+#### ☁️ Cloud, DevOps, Version Control
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+#### 🌐 Web Hosting, Custom Domain Management, DNS
+![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=flat&logo=squarespace&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=flat&logo=github&logoColor=white)
+![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat&logo=hugo&logoColor=white)
+
+#### ⛏️ Mining Operations & Dispatch Software
+![ArcGIS](https://img.shields.io/badge/ArcGIS-007AC2?style=flat&logo=arcgis&logoColor=white)
+![MineStar](https://img.shields.io/badge/Caterpillar_Minestar-F4B335?style=flat&logoColor=white)
+![Terrain](https://img.shields.io/badge/Caterpillar_Terrain-F4B335?style=flat&logoColor=white)
+![Dispatch](https://img.shields.io/badge/Komatsu_Modular_Dispatch-1E6EBE?style=flat&logoColor=white)
+![Provision](https://img.shields.io/badge/Komatsu_ProVision-1E6EBE?style=flat&logoColor=white)
+![OSIsoft PI](https://img.shields.io/badge/OSIsoft_PI-003B5C?style=flat&logoColor=white)
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=dailodong&style=flat-square&color=blue)
+
+<h2 align="left"><a href="https://edward.donger.ca">Resume</a></h2>
